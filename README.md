@@ -1,4 +1,8 @@
-![image1](image1)
+
+<p align="center">
+	<img src="Banner.png" alt="Banner" />
+</p>
+
 
 <h1 align="center">Hola 👋, Soy Carlos Mairena</h1>
 <h3 align="center">Soy un Data Scientist analítico con una sólida formación en finanzas y un enfoque práctico en la resolución de problemas mediante el uso de Python y herramientas modernas de análisis de datos. Combino pensamiento crítico, curiosidad técnica y comprensión del entorno financiero para transformar datos complejos en conclusiones claras que apoyan decisiones estratégicas. Me motiva crear modelos robustos, optimizar procesos y aportar valor real a través de soluciones basadas en datos.</h3>
